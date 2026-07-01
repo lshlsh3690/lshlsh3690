@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Seonghoon 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   <a href="https://solved.ac/lshlsh3690">
@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLshLsh3690&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitor badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=LshLsh3690&label=Profile%20Views&color=79C83D&style=flat" alt="visitor badge"/>
 </p>
 
 <p align="center">
@@ -24,12 +22,12 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -43,11 +41,10 @@
 ### 📌 Pinned Project
 
 **[Disaster Alert Archive](https://github.com/LshLsh3690/disaster-alert-archive)**
-재난 알림 메시지 아카이빙 및 시각화 프로젝트 (Spring Boot · PostgreSQL · Redis · Vue.js)
+재난 알림 메시지 아카이빙 및 시각화 프로젝트 (Spring Boot · JPA · PostgreSQL · Redis)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LshLsh3690&show_icons=true&theme=transparent&hide_border=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LshLsh3690&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LshLsh3690&theme=dark&hide_border=true" width="60%" />
 </p>
