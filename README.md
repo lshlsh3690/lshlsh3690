@@ -40,7 +40,7 @@
 
 ### 📌 Pinned Project
 
-**[Disaster Alert Archive](https://github.com/LshLsh3690/disaster-alert-archive)**
+**[Disaster Alert Archive](https://github.com/LshLsh3690/disaster-alert-archive)** · [🔗 바로가기](https://disaster-alert-archive.co.kr/)
 재난 알림 메시지 아카이빙 및 시각화 프로젝트 (Spring Boot · JPA · PostgreSQL · Redis)
 
 ---
