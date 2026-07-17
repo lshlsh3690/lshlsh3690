@@ -47,4 +47,5 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LshLsh3690&theme=dark&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=LshLsh3690&theme=dark&hide_border=true" width="60%" />
 </p>
