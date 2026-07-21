@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LshLsh3690&theme=dark&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=lshlsh3690&theme=dark&hide_border=true" width="60%" />
 </p>
